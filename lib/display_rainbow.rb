@@ -5,9 +5,9 @@
 
 def display_rainbow(array)
   
-puts "#{array[0][0]}, #{array[1][0]},#{array[2][0]}
-#{array[3][0]}, #{array[4][0]}, #{array[5][0]},
-#{array[6][0]}, #{array[7][0]}"
+puts "#{array[0][0]}.uppercase, #{array[1][0]}.uppercase,#{array[2][0]}.uppercase
+#{array[3][0]}.uppercase, #{array[4][0]}.uppercase, #{array[5][0]}.uppercase,
+#{array[6][0]}.uppercase, #{array[7][0]}.uppercase"
 
 
   
