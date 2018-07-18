@@ -5,7 +5,7 @@
 
 def display_rainbow(array)
   
-
+puts "#{array[0][0]}, #{array[1][0]}
 
 
   
